@@ -8,7 +8,7 @@ A pixel-perfect, fully responsive **Ice Cream landing page** built using **React
 
 ## 📸 Live Preview
 
-🌐 [View Deployed Site on Vercel](https://your-live-link.vercel.app)
+🌐 [View Deployed Site on Vercel](code-xnovas.vercel.app)
 
 ## 📁 GitHub Repository
 
