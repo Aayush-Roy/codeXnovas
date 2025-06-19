@@ -12,7 +12,7 @@ A pixel-perfect, fully responsive **Ice Cream landing page** built using **React
 
 ## 📁 GitHub Repository
 
-🔗 [View Source Code on GitHub](https://github.com/Aayush-Roy/codeXnovas#)
+🔗 [View Source Code on GitHub](https://code-xnovas.vercel.app/)
 
 ---
 
